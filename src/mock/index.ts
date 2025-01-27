@@ -4,7 +4,7 @@ export const defaultUser: LocalGithubUser = {
   login: "DenisShagi",
   id: 149366145,
   avatar: "https://avatars.githubusercontent.com/u/149366145?v=4",
-  name: "Denis",
+  name: "Denis Shagimardanov",
   company: "Epam",
   blog: "",
   location: "Russia, Moscow",
